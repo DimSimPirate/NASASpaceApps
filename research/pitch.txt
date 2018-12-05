@@ -1,0 +1,122 @@
+
+Problem (60 seconds)
+affects of landslides
+unsustainable human living, living in permanent locations
+yyyyy
+impact on humans
+
+
+Solution (60 seconds)
+how,how,how,how,how
+
+
+MVP - Idea (60 seconds)
+images of unfinished ideas
+- the user input image
+- heatmap - map the events against a heatmap of risk factors, to show its also offering a solution, not just reporting
+
+X-Factor/Scalability (60 seconds)
+sustainability - how much ongoing effort?
+legacy - impact on the world 50 years away
+dont talk about the technical things we are doing in future, talk about the benefits of the tech
+
+
+
+
+
+
+- write a script
+- 3.5 mins
+- judging criteria
+- 
+
+
+breakdown
+30-45: problem
+75-90: solution
+30: competitive advantage
+30-45: scale
+20-30: x-factor
+
+
+Goals:
+improve resilience of poor during landslide events
+reduce deaths
+
+Intro Slide
+
+Slide 1 (problem) :  20 seconds
+why a danger to life? - global warming is increasing incidents of extreme weather
+	- landslides are impacted by weather conditions
+Causes: deforestation, over-population, human development, water-ways, rainfall, fault-lines
+
+Script:
+Landslides are a huge problem today will only continue to become more so as the world continues as it is.
+They are heavily impacted by humans with development and deforestation, as well as by many natural causes such
+	as proximity to water-ways, rainfall and positioning near fault lines.
+
+Slide 2 (problem): 25 seconds
+why underreported? - people dont report them in developing and sparesly populated areas
+why? - no globally kept standard recording
+why? - need to monitor the whole earth, humans only cover some % of this
+
+Script:
+Their impact is often underrepresented by the gathered data, especially in developing areas in the world, notably
+	South America and Africa.
+Currently some of the most comprehensive data on landslide events comes from information reported by media.
+Scientific data on landslides has been approached by the use of satellite imagery with some success.
+The lack of global reporting and the fact that much of the earth is sparesely populated mean organising a
+	centralised data location will have a great impact.
+
+
+DEMO (solution): 60 seconds
+DEMO
+Access for information - view main map image, hover over risk factors
+Opportunity for crowd-sourcing - form
+
+Script:
+
+
+
+Slide 3 (solution): 30 seconds
+Risk rating heatmap - mock up a heatmap of risk rating - R Alec
+
+Script:
+We acquired data from a number of sources relating to the factors that may contribute landslides.
+This included environmental data such as daily rainfall and information about earthquake events
+	as well as data on human settlements and their geo-locations.
+We found that the main risk factors for landslides are:
+blah
+and made a breif risk rating system that categorises areas into a risk rating. This could then be used to overlay
+	a heat map so people can search for their area, and it will also give them information as to why the risk
+	rating was acheived in their chosen location.
+
+
+
+Slide 5 (scale): 30 seconds
+Crowd sourcing requires minimal input
+-rainfall
+-other disasters
+-deforestation
+-mapping locations of water-ways
+-possibly using satellite imagery to classify these
+
+Sript:
+Where do we go from here?
+Disastr Data is an idea that can build upon the efforts of people around the globe as the crowd-sourcing of data
+	will snowball and benefits will grow.
+Getting more data from satellite imagery will allow us to classify areas to gather data such as the locations of
+	water-ways that will greatly improve the risk rating suggestions. As well as leveraging current weather data
+	to give warnings.
+
+Slide 6 (X-FACTOR): 30 seconds
+Integration of more environment classification will improve risk rating analysis
+
+
+
+
+
+
+
+
+

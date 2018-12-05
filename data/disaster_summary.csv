@@ -1,0 +1,659 @@
+"","country","year(date)","landslides","earthquakes","fatalities","injuries","avg_affected_pop","avg_elevation","avg_magnitude","max_magnitude","mode_damage","earthquake_houses_damaged","avg_distance_to_city"
+"1","Afghanistan",2007,2,0,115,NA,1521766,1094,NA,NA,"numeric",NA,266.881263205985
+"2","Afghanistan",2008,2,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"3","Afghanistan",2009,1,2,29,NA,NA,NA,NA,NA,"numeric",NA,NA
+"4","Afghanistan",2010,2,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"5","Afghanistan",2012,0,1,75,13,NA,NA,5.8,5.8,"numeric",593,NA
+"6","Afghanistan",2013,0,1,18,141,NA,NA,5.5,5.5,"numeric",676,NA
+"7","Afghanistan",2014,3,0,2105,0,30212,1659.66666666667,NA,NA,"numeric",NA,418.684107767685
+"8","Afghanistan",2015,0,2,302,1797,NA,NA,6.9,7.5,"numeric",NA,NA
+"9","Afghanistan",2016,0,1,6,5,NA,NA,6.6,6.6,"numeric",20,NA
+"10","Albania",2007,0,1,NA,NA,NA,NA,4.5,4.5,"numeric",NA,NA
+"11","Albania",2010,1,0,0,NA,0,85,NA,NA,"numeric",NA,295.126882924378
+"12","Albania",2014,0,1,NA,NA,NA,NA,5.1,5.1,"numeric",NA,NA
+"13","Algeria",2008,0,2,2,NA,NA,NA,5.05,5.5,"numeric",NA,NA
+"14","Algeria",2010,0,1,2,43,NA,NA,5.2,5.2,"numeric",NA,NA
+"15","Algeria",2013,0,2,NA,16,NA,NA,4.85,4.9,"numeric",NA,NA
+"16","Algeria",2014,0,1,6,420,NA,NA,5.6,5.6,"numeric",NA,NA
+"17","Algeria ",2009,1,0,6,NA,148000,9,NA,NA,"numeric",NA,165.469006366584
+"18","American Samoa",2009,4,0,0,NA,2541.5,72.5,NA,NA,"numeric",NA,73.2760506210636
+"19","American Samoa",2012,1,0,NA,NA,2124,19,NA,NA,"numeric",NA,152.981846223413
+"20","Angola",2010,2,0,0,NA,2776168,73,NA,NA,"numeric",NA,340.134444540808
+"21","Angola",2011,1,0,0,NA,2776168,73,NA,NA,"numeric",NA,734.690277691444
+"22","Antarctica",2013,0,1,NA,NA,NA,NA,7.8,7.8,"numeric",NA,NA
+"23","Argentina",2008,0,1,NA,NA,NA,NA,4.1,4.1,"numeric",NA,NA
+"24","Argentina",2009,3,0,3,NA,312567.666666667,526.333333333333,NA,NA,"numeric",NA,61.8335287673122
+"25","Argentina",2010,1,1,5,NA,NA,NA,NA,NA,"numeric",NA,NA
+"26","Argentina",2013,1,0,NA,NA,56859,29,NA,NA,"numeric",NA,31.5113998732271
+"27","Argentina",2014,1,0,3,0,1083,1296,NA,NA,"numeric",NA,48.6741073978378
+"28","Argentina",2015,0,1,1,5,NA,NA,5.8,5.8,"numeric",20,NA
+"29","Armenia",2010,2,0,0,NA,2277,1045.5,NA,NA,"numeric",NA,402.021805630925
+"30","Armenia",2011,1,0,3,NA,1235,754,NA,NA,"numeric",NA,187.83176502919
+"31","Atlantic Ocean",2008,0,1,NA,NA,NA,NA,5,5,"numeric",NA,NA
+"32","Australia",2007,1,0,NA,NA,15582,119,NA,NA,"numeric",NA,201.826909243308
+"33","Australia",2008,6,0,NA,NA,40680.1666666667,348.166666666667,NA,NA,"numeric",NA,159.153851787321
+"34","Australia",2009,5,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"35","Australia",2010,21,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"36","Australia",2011,24,0,NA,NA,209426.25,129.875,NA,NA,"numeric",NA,367.681506392782
+"37","Australia",2012,11,0,NA,NA,7241.63636363636,305.090909090909,NA,NA,"numeric",NA,307.486202039852
+"38","Australia",2013,10,0,NA,NA,20490.4,152.2,NA,NA,"numeric",NA,262.61954400378
+"39","Australia",2014,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"40","Austria",2007,1,0,NA,NA,9651,434,NA,NA,"numeric",NA,300.086123657937
+"41","Austria",2010,2,0,1,NA,0,696,NA,NA,"numeric",NA,464.041254273752
+"42","Austria",2012,1,0,NA,NA,0,644,NA,NA,"numeric",NA,74.0650358724129
+"43","Austria",2013,6,0,NA,NA,4098.83333333333,848,NA,NA,"numeric",NA,157.191126083704
+"44","Azerbaijan",2008,2,0,NA,NA,7392,NA,NA,NA,"numeric",NA,NA
+"45","Azerbaijan",2010,16,0,4,NA,32191.875,642.75,NA,NA,"numeric",NA,560.335976135974
+"46","Azerbaijan",2012,0,1,NA,50,NA,NA,5.7,5.7,"numeric",NA,NA
+"47","Azerbaijan",2014,1,0,0,0,37949,75,NA,NA,"numeric",NA,221.037117112863
+"48","Bangladesh",2007,5,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"49","Bangladesh",2008,4,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"50","Bangladesh",2009,2,0,16,NA,19015.5,21.5,NA,NA,"numeric",NA,713.775110514214
+"51","Bangladesh",2010,8,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"52","Bangladesh",2011,3,0,23,NA,4769748.33333333,20.6666666666667,NA,NA,"numeric",NA,49.28967107553
+"53","Bangladesh",2012,5,0,110,NA,946718.2,18.4,NA,NA,"numeric",NA,562.260504902919
+"54","Bangladesh",2013,3,0,NA,NA,1328648.33333333,19,NA,NA,"numeric",NA,871.654949213975
+"55","Bangladesh",2014,3,0,4,1,1345034.66666667,17.6666666666667,NA,NA,"numeric",NA,412.804657364001
+"56","Bangladesh",2015,1,0,1,4,253788,3,NA,NA,"numeric",NA,13.8488122818214
+"57","Barbados",2008,1,0,NA,NA,1765,49,NA,NA,"numeric",NA,133.094973420591
+"58","Bermuda",2011,1,0,0,NA,902,22,NA,NA,"numeric",NA,87.3654306431375
+"59","Bhutan",2007,2,0,NA,NA,1853.5,1827.5,NA,NA,"numeric",NA,507.373605447247
+"60","Bhutan",2008,2,0,NA,NA,8947.5,1115,NA,NA,"numeric",NA,752.991092033689
+"61","Bhutan",2009,4,3,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"62","Bhutan",2010,8,0,NA,NA,4000.125,1967.125,NA,NA,"numeric",NA,497.0251614175
+"63","Bhutan",2011,1,0,1,NA,2805,2108,NA,NA,"numeric",NA,15.2676275274586
+"64","Bhutan",2012,3,0,NA,NA,38857,1516.33333333333,NA,NA,"numeric",NA,372.074243573042
+"65","Bolivia",2009,1,0,0,NA,812799,3782,NA,NA,"numeric",NA,18.1672441840299
+"66","Bolivia",2010,3,0,16,NA,281880.333333333,3110,NA,NA,"numeric",NA,676.156726654959
+"67","Bolivia",2011,1,0,0,NA,812799,3782,NA,NA,"numeric",NA,337.858408788715
+"68","Bolivia",2013,1,0,21,27,2361,1575,NA,NA,"numeric",NA,1510.76437413077
+"69","Bolivia",2014,3,0,20,0,67714.6666666667,2475.66666666667,NA,NA,"numeric",NA,830.430659909897
+"70","Bosnia",2014,3,0,0,0,8670.33333333333,345.666666666667,NA,NA,"numeric",NA,275.52086154953
+"71","Bosnia-Herzegovina",2015,0,1,4,1,NA,NA,3.4,3.4,"numeric",NA,NA
+"72","Bosnia and Herzegovina",2010,5,0,3,NA,35231.2,302.8,NA,NA,"numeric",NA,161.862629732541
+"73","Brazil",2007,4,1,14,NA,NA,NA,NA,NA,"numeric",NA,NA
+"74","Brazil",2008,3,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"75","Brazil",2009,11,0,NA,NA,3021980.36363636,379.727272727273,NA,NA,"numeric",NA,141.781041200254
+"76","Brazil",2010,128,0,NA,NA,2315885.359375,342.6796875,NA,NA,"numeric",NA,145.435205248722
+"77","Brazil",2011,35,0,984,NA,176375.228571429,358.628571428571,NA,NA,"numeric",NA,160.208432176256
+"78","Brazil",2012,5,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"79","Brazil",2013,17,0,NA,NA,110318.470588235,491.470588235294,NA,NA,"numeric",NA,185.706586145462
+"80","Brazil",2014,2,0,0,0,763043,32,NA,NA,"numeric",NA,114.547815208162
+"81","Brunei",2007,2,0,NA,NA,41780,10.5,NA,NA,"numeric",NA,489.143201373263
+"82","Brunei",2008,4,0,NA,NA,55831,13.5,NA,NA,"numeric",NA,251.547748195665
+"83","Brunei",2009,1,0,2,NA,64409,16,NA,NA,"numeric",NA,611.961888169359
+"84","Brunei",2010,4,0,0,NA,37984.75,9,NA,NA,"numeric",NA,274.631257873911
+"85","Brunei",2011,3,0,0,NA,34237,13.3333333333333,NA,NA,"numeric",NA,198.185172900742
+"86","Bulgaria",2007,2,0,NA,NA,582265.5,197.5,NA,NA,"numeric",NA,398.667682355962
+"87","Bulgaria",2008,1,0,NA,NA,0,811,NA,NA,"numeric",NA,189.361642245317
+"88","Bulgaria",2010,3,0,0,NA,16568.3333333333,552.666666666667,NA,NA,"numeric",NA,137.546278720132
+"89","Bulgaria",2012,3,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"90","Bulgaria",2013,2,0,6,NA,9352,278.5,NA,NA,"numeric",NA,68.2618331006355
+"91","Bulgaria",2014,1,0,0,0,312770,54,NA,NA,"numeric",NA,94.6169555486162
+"92","Burkina Faso",2008,1,0,34,NA,6483,307,NA,NA,"numeric",NA,1107.02230734405
+"93","Burma",2014,1,0,6,4,90894,NA,NA,NA,"numeric",NA,NA
+"94","Cameroon",2007,1,0,NA,NA,43509,1610,NA,NA,"numeric",NA,0.19102476730932
+"95","Cameroon",2008,1,0,NA,NA,290768,1438,NA,NA,"numeric",NA,34.1800007384697
+"96","Cameroon",2009,1,0,0,NA,393835,1258,NA,NA,"numeric",NA,11.5973041855211
+"97","Cameroon",2011,1,0,0,NA,1338082,19,NA,NA,"numeric",NA,93.8007959926865
+"98","Canada",2007,8,0,NA,NA,141240.5,231,NA,NA,"numeric",NA,189.812891609889
+"99","Canada",2008,12,0,NA,NA,8189.75,227.666666666667,NA,NA,"numeric",NA,378.81314558784
+"100","Canada",2009,4,0,NA,NA,23751,-2294.5,NA,NA,"numeric",NA,326.476931940025
+"101","Canada",2010,22,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"102","Canada",2011,16,0,0,NA,31527,-250.0625,NA,NA,"numeric",NA,284.203382762867
+"103","Canada",2012,14,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"104","Canada",2013,15,0,NA,NA,26528.2666666667,445.733333333333,NA,NA,"numeric",NA,448.343022344089
+"105","Canada",2014,12,0,0,2,21880.8461538462,NA,NA,NA,"numeric",NA,NA
+"106","Canary Islands",2010,1,0,0,NA,222417,55,NA,NA,"numeric",NA,54.6584008862551
+"107","Chile",2007,0,3,NA,NA,NA,NA,6.6,7.7,"numeric",NA,NA
+"108","Chile",2008,1,0,3,NA,27595,568,NA,NA,"numeric",NA,1253.90892605799
+"109","Chile",2009,4,0,4,NA,98272.75,335,NA,NA,"numeric",NA,490.600184592266
+"110","Chile",2010,0,2,NA,NA,NA,NA,7.85,8.8,"numeric",NA,NA
+"111","Chile",2011,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"112","Chile",2012,3,3,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"113","Chile",2013,1,0,0,NA,24460,37,NA,NA,"numeric",NA,238.474898494667
+"114","Chile",2014,0,4,NA,NA,NA,NA,7.4,8.2,"numeric",NA,NA
+"115","Chile",2015,0,2,NA,NA,NA,NA,7.6,8.3,"numeric",NA,NA
+"116","Chile",2016,0,1,NA,NA,NA,NA,7.6,7.6,"numeric",NA,NA
+"117","Chile",2017,0,1,NA,NA,NA,NA,6.9,6.9,"numeric",NA,NA
+"118","China",2007,35,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"119","China",2008,51,15,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"120","China",2009,11,6,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"121","China",2010,76,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"122","China",2011,44,10,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"123","China",2012,38,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"124","China",2013,71,6,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"125","China",2014,22,8,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"126","China",2015,0,4,NA,NA,NA,NA,5.225,6.4,"numeric",NA,NA
+"127","China",2016,0,1,NA,60,NA,NA,5.5,5.5,"numeric",NA,NA
+"128","Colombia",2007,3,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"129","Colombia",2008,9,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"130","Colombia",2009,2,0,6,NA,31816,343.5,NA,NA,"numeric",NA,260.641309766145
+"131","Colombia",2010,23,0,143,NA,237959.347826087,1443.04347826087,NA,NA,"numeric",NA,239.689834485682
+"132","Colombia",2011,39,0,168,NA,255984.948717949,1504.5641025641,NA,NA,"numeric",NA,224.77478639297
+"133","Colombia",2012,5,0,NA,NA,32292,566.2,NA,NA,"numeric",NA,308.528391246214
+"134","Colombia",2013,2,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"135","Columbia",2014,4,0,10,14,207698.25,1070.5,NA,NA,"numeric",NA,193.896360214189
+"136","Congo",2008,0,1,38,717,NA,NA,5.9,5.9,"numeric",815,NA
+"137","Costa Rica",2007,5,0,NA,NA,13048.4,947.2,NA,NA,"numeric",NA,197.737400255739
+"138","Costa Rica",2008,6,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"139","Costa Rica",2009,1,1,24,NA,NA,NA,NA,NA,"numeric",NA,NA
+"140","Costa Rica",2010,23,0,28,NA,9108.95652173913,717.304347826087,NA,NA,"numeric",NA,370.389858894337
+"141","Costa Rica",2011,5,0,0,NA,13258.6,765.4,NA,NA,"numeric",NA,462.305547588835
+"142","Costa Rica",2012,4,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"143","Costa Rica",2013,5,0,NA,NA,4475.4,994.6,NA,NA,"numeric",NA,526.120668283707
+"144","Croatia",2010,1,0,0,2,2169,NA,NA,NA,"numeric",NA,NA
+"145","Cuba",2010,2,0,0,NA,90356.5,21,NA,NA,"numeric",NA,193.998879023032
+"146","Cuba",2013,1,0,0,NA,7205,226,NA,NA,"numeric",NA,510.769170772855
+"147","Czech Republic",2008,0,1,2,3,NA,NA,4.1,4.1,"numeric",NA,NA
+"148","Czech Republic",2010,1,0,0,NA,8727,320,NA,NA,"numeric",NA,194.216812000909
+"149","Czech Republic",2011,1,0,0,NA,1165581,202,NA,NA,"numeric",NA,107.085573369607
+"150","Czech Republic",2013,1,0,0,0,3190,463,NA,NA,"numeric",NA,205.226255007275
+"151","Democratic Republic of Congo",2007,2,0,NA,NA,4535287,282.5,NA,NA,"numeric",NA,60.0780690230646
+"152","Democratic Republic of Congo",2010,1,0,54,NA,144124,1468,NA,NA,"numeric",NA,308.818385608708
+"153","Dominica",2007,2,0,NA,NA,8636.5,303,NA,NA,"numeric",NA,168.308412795602
+"154","Dominica",2010,8,0,0,NA,1535.25,348.125,NA,NA,"numeric",NA,237.127114669294
+"155","Dominica",2013,3,0,0,NA,1917,-3123.33333333333,NA,NA,"numeric",NA,229.829972713473
+"156","Dominica",2014,1,0,0,0,2184,1,NA,NA,"numeric",NA,136.987436767121
+"157","Dominican Republic",2007,4,0,NA,NA,320963.25,113.5,NA,NA,"numeric",NA,113.334839880777
+"158","Dominican Republic",2008,2,0,NA,NA,12217,20,NA,NA,"numeric",NA,186.420932809268
+"159","Dominican Republic",2009,3,0,NA,NA,9774.66666666667,345.666666666667,NA,NA,"numeric",NA,182.700334936213
+"160","Dominican Republic",2011,3,0,2,NA,747091.666666667,585.333333333333,NA,NA,"numeric",NA,70.8553902956535
+"161","Dominican Republic",2012,1,0,NA,NA,146000,34,NA,NA,"numeric",NA,68.5993774017014
+"162","East Timor",2011,1,0,0,NA,150000,3,NA,NA,"numeric",NA,235.124117139966
+"163","Ecuador",2007,3,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"164","Ecuador",2008,2,0,NA,NA,703561.5,1434.5,NA,NA,"numeric",NA,1003.78408636297
+"165","Ecuador",2009,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"166","Ecuador",2010,3,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"167","Ecuador",2011,4,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"168","Ecuador",2012,2,0,20,NA,29715.5,15.5,NA,NA,"numeric",NA,599.77595994229
+"169","Ecuador",2013,3,0,24,NA,68001,199.666666666667,NA,NA,"numeric",NA,1570.02140033037
+"170","Ecuador",2014,0,1,2,8,NA,NA,5.1,5.1,"numeric",NA,NA
+"171","Ecuador",2016,0,3,666,NA,NA,NA,6.66666666666667,7.8,"numeric",2837,NA
+"172","El Salvador",2007,1,0,NA,NA,7797,1255,NA,NA,"numeric",NA,0.128522957835313
+"173","El Salvador",2008,1,0,NA,NA,124694,723,NA,NA,"numeric",NA,188.509453793612
+"174","El Salvador",2009,4,0,NA,NA,39569.75,702.75,NA,NA,"numeric",NA,188.993868049913
+"175","El Salvador",2010,1,0,0,NA,5055,1255,NA,NA,"numeric",NA,115.404511061341
+"176","El Salvador",2011,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"177","El Salvador",2014,0,1,1,NA,NA,NA,7.3,7.3,"numeric",41,NA
+"178","El Salvador",2017,0,1,1,3,NA,NA,4.8,4.8,"numeric",NA,NA
+"179","Ethiopia",2010,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"180","Fiji",2007,4,0,NA,NA,28194.5,5.5,NA,NA,"numeric",NA,854.842673401254
+"181","Fiji",2008,3,0,NA,NA,60893.6666666667,39.6666666666667,NA,NA,"numeric",NA,620.001876993769
+"182","Fiji",2010,8,0,0,NA,46870.625,32,NA,NA,"numeric",NA,1780.87336585261
+"183","Fiji",2011,2,0,0,NA,45981,34,NA,NA,"numeric",NA,1081.28487197152
+"184","Fiji",2012,10,0,NA,NA,34618.8,10.4,NA,NA,"numeric",NA,1627.468412625
+"185","Fiji",2013,1,0,NA,NA,77366,57,NA,NA,"numeric",NA,839.800187405803
+"186","Fiji",2014,1,0,0,0,77366,11,NA,NA,"numeric",NA,1228.82263621217
+"187","Fiji",2017,0,1,NA,NA,NA,NA,6.9,6.9,"numeric",NA,NA
+"188","France",2007,1,0,NA,NA,10614,152,NA,NA,"numeric",NA,151.890605871046
+"189","France",2010,3,0,0,NA,8539.33333333333,97,NA,NA,"numeric",NA,27.6898052728597
+"190","France",2013,1,0,0,NA,16920,436,NA,NA,"numeric",NA,35.0280369489115
+"191","France",2014,1,0,4,20,739,354,NA,NA,"numeric",NA,295.19542569174
+"192","Gabon",2013,1,0,3,NA,578156,8,NA,NA,"numeric",NA,242.16234301992
+"193","Georgia",2008,2,0,NA,NA,6101,NA,NA,NA,"numeric",NA,NA
+"194","Georgia",2009,0,1,NA,1,NA,NA,6,6,"numeric",1000,NA
+"195","Georgia",2010,9,0,1,NA,7724.22222222222,NA,NA,NA,"numeric",NA,NA
+"196","Georgia",2011,3,0,11,NA,9615.33333333333,NA,NA,NA,"numeric",NA,NA
+"197","Georgia",2012,3,0,NA,NA,2024.66666666667,NA,NA,NA,"numeric",NA,NA
+"198","Georgia",2013,3,0,NA,NA,7962,NA,NA,NA,"numeric",NA,NA
+"199","Georgia",2014,4,0,18,10,6564,NA,NA,NA,"numeric",NA,NA
+"200","Germany",2008,1,0,NA,NA,14771,73,NA,NA,"numeric",NA,8.30230925414412
+"201","Germany",2011,1,0,1,NA,1138,466,NA,NA,"numeric",NA,49.6453195689632
+"202","Germany",2014,0,1,NA,NA,NA,NA,4.1,4.1,"numeric",70,NA
+"203","Ghana",2008,2,0,NA,NA,33649,NA,NA,NA,"numeric",NA,NA
+"204","Ghana",2010,2,0,0,NA,125659,NA,NA,NA,"numeric",NA,NA
+"205","Ghana",2012,1,0,NA,NA,50293,NA,NA,NA,"numeric",NA,NA
+"206","Greece",2007,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"207","Greece",2008,0,1,2,240,NA,NA,6.3,6.3,"numeric",NA,NA
+"208","Greece",2009,2,0,1,2,2113,NA,NA,NA,"numeric",NA,NA
+"209","Greece",2010,1,0,0,NA,208,NA,NA,NA,"numeric",NA,NA
+"210","Greece",2013,0,2,NA,NA,NA,NA,5.75,6.4,"numeric",NA,NA
+"211","Greece",2014,0,3,NA,288,NA,NA,6.36666666666667,6.9,"numeric",NA,NA
+"212","Greece",2015,0,1,2,4,NA,NA,6.5,6.5,"numeric",NA,NA
+"213","Grenada",2011,2,0,0,NA,2817,NA,NA,NA,"numeric",NA,NA
+"214","Guatemala",2007,4,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"215","Guatemala",2008,6,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"216","Guatemala",2010,27,0,123,NA,98333.6296296296,NA,NA,NA,"numeric",NA,NA
+"217","Guatemala",2011,1,1,16,NA,NA,NA,NA,NA,"numeric",NA,NA
+"218","Guatemala",2012,1,1,49,NA,NA,NA,NA,NA,"numeric",NA,NA
+"219","Guatemala",2013,1,1,1,NA,NA,NA,NA,NA,"numeric",NA,NA
+"220","Guatemala",2014,1,0,6,7,3554,NA,NA,NA,"numeric",NA,NA
+"221","Guinea",2013,1,0,20,5,43601,NA,NA,NA,"numeric",NA,NA
+"222","Guinea",2014,1,0,8,0,10609,NA,NA,NA,"numeric",NA,NA
+"223","Haiti",2007,3,0,NA,NA,415329,NA,NA,NA,"numeric",NA,NA
+"224","Haiti",2008,4,0,57,NA,673102.75,NA,NA,NA,"numeric",NA,NA
+"225","Haiti",2009,2,0,5,NA,254191,NA,NA,NA,"numeric",NA,NA
+"226","Haiti",2010,4,1,316017,NA,NA,NA,NA,NA,"numeric",NA,NA
+"227","Haiti",2011,3,0,14,NA,146536,NA,NA,NA,"numeric",NA,NA
+"228","Haiti",2012,2,0,8,NA,157848.5,NA,NA,NA,"numeric",NA,NA
+"229","Honduras",2008,2,0,52,NA,427800,NA,NA,NA,"numeric",NA,NA
+"230","Honduras",2009,0,1,7,40,NA,NA,7.3,7.3,"numeric",25,NA
+"231","Honduras",2010,6,0,9,NA,426292.833333333,NA,NA,NA,"numeric",NA,NA
+"232","Honduras",2011,1,0,2,NA,850848,NA,NA,NA,"numeric",NA,NA
+"233","Honduras",2013,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"234","Honduras",2014,1,0,8,3,75872,NA,NA,NA,"numeric",NA,NA
+"235","Iceland",2008,0,1,NA,30,NA,NA,6.3,6.3,"numeric",NA,NA
+"236","Iceland",2012,1,0,0,NA,1690,NA,NA,NA,"numeric",NA,NA
+"237","Iceland",2014,1,0,0,0,2624,NA,NA,NA,"numeric",NA,NA
+"238","India",2007,71,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"239","India",2008,59,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"240","India",2009,53,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"241","India",2010,245,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"242","India",2011,151,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"243","India",2012,79,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"244","India",2013,205,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"245","India",2014,27,0,180,14,126498.259259259,NA,NA,NA,"numeric",NA,NA
+"246","India",2015,0,1,NA,2,NA,NA,5.1,5.1,"numeric",NA,NA
+"247","India",2016,0,1,13,100,NA,NA,6.7,6.7,"numeric",NA,NA
+"248","India",2017,0,1,2,3,NA,NA,5.7,5.7,"numeric",NA,NA
+"249","Indonesia",2007,16,9,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"250","Indonesia",2008,40,6,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"251","Indonesia",2009,21,9,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"252","Indonesia",2010,62,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"253","Indonesia",2011,23,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"254","Indonesia",2012,47,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"255","Indonesia",2013,44,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"256","Indonesia",2014,30,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"257","Indonesia",2015,0,2,NA,NA,NA,NA,6.8,7,"numeric",265,NA
+"258","Indonesia",2016,0,5,NA,NA,NA,NA,6.4,7.8,"numeric",NA,NA
+"259","Iran",2007,1,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"260","Iran",2008,0,5,NA,NA,NA,NA,5.18,6.1,"numeric",NA,NA
+"261","Iran",2009,0,1,NA,269,NA,NA,5.1,5.1,"numeric",NA,NA
+"262","Iran",2010,1,7,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"263","Iran",2011,0,1,NA,16,NA,NA,4.5,4.5,"numeric",NA,NA
+"264","Iran",2012,0,5,NA,3264,NA,NA,5.62,6.5,"numeric",NA,NA
+"265","Iran",2013,3,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"266","Iran",2014,1,3,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"267","Iran",2017,0,2,6,15,NA,NA,5.55,6.1,"numeric",NA,NA
+"268","Ireland",2007,1,0,NA,NA,9472,115,NA,NA,"numeric",NA,17843.3167835127
+"269","Ireland",2008,4,0,NA,NA,5441.75,NA,NA,NA,"numeric",NA,NA
+"270","Ireland",2009,3,0,NA,NA,5706,NA,NA,NA,"numeric",NA,NA
+"271","Ireland",2010,4,0,0,NA,1746,NA,NA,NA,"numeric",NA,NA
+"272","Ireland",2011,2,0,2,NA,2023.5,NA,NA,NA,"numeric",NA,NA
+"273","Ireland",2012,2,0,NA,NA,8958,NA,NA,NA,"numeric",NA,NA
+"274","Ireland",2013,2,0,0,NA,25088.5,NA,NA,NA,"numeric",NA,NA
+"275","Ireland",2014,2,0,0,0,1312.5,NA,NA,NA,"numeric",NA,NA
+"276","Israel",2009,2,0,2,NA,21992,NA,NA,NA,"numeric",NA,NA
+"277","Italy",2008,5,0,NA,NA,38261.6,NA,NA,NA,"numeric",NA,NA
+"278","Italy",2009,5,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"279","Italy",2010,12,0,4,NA,28819.4166666667,NA,NA,NA,"numeric",NA,NA
+"280","Italy",2011,11,0,8,NA,6225.90909090909,NA,NA,NA,"numeric",NA,NA
+"281","Italy",2012,0,3,NA,NA,NA,NA,5.7,6.1,"numeric",NA,NA
+"282","Italy",2013,9,0,NA,NA,10133.6666666667,NA,NA,NA,"numeric",NA,NA
+"283","Italy",2014,4,0,0,2,2324,NA,NA,NA,"numeric",NA,NA
+"284","Italy",2016,0,3,NA,NA,NA,NA,6.46666666666667,6.6,"numeric",NA,NA
+"285","Italy",2017,0,1,29,NA,NA,NA,5.7,5.7,"numeric",NA,NA
+"286","Ivory Coast",2008,1,0,7,NA,100653,95,NA,NA,"numeric",NA,72.5811034773348
+"287","Ivory Coast",2009,1,0,16,NA,3677115,10,NA,NA,"numeric",NA,178.277837186522
+"288","Ivory Coast",2010,1,0,9,NA,3677115,10,NA,NA,"numeric",NA,348.616062319033
+"289","Ivory Coast (Cote d'Ivoire)",2014,2,0,18,12,3677115,10,NA,NA,"numeric",NA,85.2644478303138
+"290","Jamaica",2007,7,0,NA,NA,5661.57142857143,NA,NA,NA,"numeric",NA,NA
+"291","Jamaica",2008,3,0,NA,NA,4551,NA,NA,NA,"numeric",NA,NA
+"292","Jamaica",2010,15,0,2,NA,7823.73333333333,NA,NA,NA,"numeric",NA,NA
+"293","Jamaica",2011,2,0,0,NA,2401.5,NA,NA,NA,"numeric",NA,NA
+"294","Jamaica",2012,2,0,NA,NA,1720,NA,NA,NA,"numeric",NA,NA
+"295","Japan",2007,2,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"296","Japan",2008,9,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"297","Japan",2009,4,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"298","Japan",2010,11,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"299","Japan",2011,5,7,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"300","Japan",2012,4,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"301","Japan",2013,15,3,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"302","Japan",2014,3,3,NA,66,NA,NA,NA,NA,"numeric",NA,NA
+"303","Japan",2015,0,4,NA,NA,NA,NA,6.725,7.8,"numeric",NA,NA
+"304","Japan",2016,0,3,NA,NA,NA,NA,6.7,7,"numeric",NA,NA
+"305","Jordan",2007,1,0,13,NA,19783,NA,NA,NA,"numeric",NA,NA
+"306","Kashmir",2014,3,0,3,0,30449.3333333333,NA,NA,NA,"numeric",NA,NA
+"307","Kazakhstan",2009,0,1,1,NA,NA,NA,5.4,5.4,"numeric",NA,NA
+"308","Kenya",2007,4,0,NA,NA,24876.75,NA,NA,NA,"numeric",NA,NA
+"309","Kenya",2008,3,0,NA,NA,11628.6666666667,NA,NA,NA,"numeric",NA,NA
+"310","Kenya",2009,3,0,NA,NA,22277.3333333333,NA,NA,NA,"numeric",NA,NA
+"311","Kenya",2010,9,0,20,NA,7367.44444444444,NA,NA,NA,"numeric",NA,NA
+"312","Kenya",2011,3,0,6,NA,16143.6666666667,NA,NA,NA,"numeric",NA,NA
+"313","Kenya",2012,10,0,NA,NA,23262.9,NA,NA,NA,"numeric",NA,NA
+"314","Kenya",2013,12,0,NA,NA,15395.0833333333,NA,NA,NA,"numeric",NA,NA
+"315","Kermadec Islands (New Zealand)",2007,0,1,NA,NA,NA,NA,7.8,7.8,"numeric",NA,NA
+"316","Kermadec Islands (New Zealand)",2011,0,2,NA,NA,NA,NA,7.5,7.6,"numeric",NA,NA
+"317","Kyrgyzstan",2007,0,1,NA,NA,NA,NA,6,6,"numeric",NA,NA
+"318","Kyrgyzstan",2008,0,2,NA,NA,NA,NA,6.1,6.6,"numeric",NA,NA
+"319","Kyrgyzstan",2010,2,0,0,NA,0,NA,NA,NA,"numeric",NA,NA
+"320","Kyrgyzstan",2011,2,0,3,NA,7509.5,NA,NA,NA,"numeric",NA,NA
+"321","Kyrgyzstan",2012,1,0,1,NA,10155,NA,NA,NA,"numeric",NA,NA
+"322","Kyrgyzstan",2013,1,0,0,NA,0,NA,NA,NA,"numeric",NA,NA
+"323","Laos",2007,0,1,NA,NA,NA,NA,6.3,6.3,"numeric",NA,NA
+"324","Laos",2008,1,0,4,NA,196731,NA,NA,NA,"numeric",NA,NA
+"325","Laos",2013,3,0,NA,NA,9000,NA,NA,NA,"numeric",NA,NA
+"326","Lebanon",2008,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"327","Lebanon",2011,1,0,0,NA,135204,NA,NA,NA,"numeric",NA,NA
+"328","Lebanon",2012,4,0,0,NA,3088,NA,NA,NA,"numeric",NA,NA
+"329","Lebanon",2014,1,0,1,3,5000,NA,NA,NA,"numeric",NA,NA
+"330","Macedonia",2009,0,1,NA,NA,NA,NA,5.3,5.3,"numeric",NA,NA
+"331","Macedonia",2010,2,0,0,NA,5471,NA,NA,NA,"numeric",NA,NA
+"332","Macedonia",2016,0,1,NA,30,NA,NA,5.3,5.3,"numeric",NA,NA
+"333","Madagascar",2009,1,0,5,NA,15722,NA,NA,NA,"numeric",NA,NA
+"334","Madagascar",2010,1,0,8,NA,27686,NA,NA,NA,"numeric",NA,NA
+"335","Madagascar",2012,1,0,73,NA,17543,NA,NA,NA,"numeric",NA,NA
+"336","Malawi",2009,0,2,4,265,NA,NA,5.95,6,"numeric",6565,NA
+"337","Malawi",2011,1,0,0,NA,8824,NA,NA,NA,"numeric",NA,NA
+"338","Malaysia",2007,6,0,NA,NA,295996.833333333,NA,NA,NA,"numeric",NA,NA
+"339","Malaysia",2008,14,0,NA,NA,611448.928571429,NA,NA,NA,"numeric",NA,NA
+"340","Malaysia",2009,9,0,NA,NA,435344.111111111,NA,NA,NA,"numeric",NA,NA
+"341","Malaysia",2010,9,0,0,NA,306485,NA,NA,NA,"numeric",NA,NA
+"342","Malaysia",2011,21,0,27,NA,429752.904761905,NA,NA,NA,"numeric",NA,NA
+"343","Malaysia",2012,13,0,NA,NA,457135.769230769,NA,NA,NA,"numeric",NA,NA
+"344","Malaysia",2013,28,0,NA,NA,581277.785714286,NA,NA,NA,"numeric",NA,NA
+"345","Malaysia",2014,10,0,3,0,267079.75,NA,NA,NA,"numeric",NA,NA
+"346","Malaysia",2015,0,1,18,NA,NA,NA,6,6,"numeric",23,NA
+"347","Martinique",2007,0,1,1,102,NA,NA,7.4,7.4,"numeric",NA,NA
+"348","Mexico",2007,6,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"349","Mexico",2008,2,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"350","Mexico",2009,3,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"351","Mexico",2010,18,2,83,NA,NA,NA,NA,NA,"numeric",NA,NA
+"352","Mexico",2011,11,1,6,NA,NA,NA,NA,NA,"numeric",NA,NA
+"353","Mexico",2012,1,1,5,NA,NA,NA,NA,NA,"numeric",NA,NA
+"354","Mexico",2013,17,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"355","Mexico",2014,1,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"356","Morocco",2016,0,1,NA,15,NA,NA,6.3,6.3,"numeric",NA,NA
+"357","Myanmar",2009,2,0,NA,NA,24561,NA,NA,NA,"numeric",NA,NA
+"358","Myanmar",2011,1,0,NA,NA,44563,145,NA,NA,"numeric",NA,575.350237134576
+"359","Myanmar",2013,2,0,NA,NA,24983.5,NA,NA,NA,"numeric",NA,NA
+"360","Myanmar",2014,2,0,75,100,45447,NA,NA,NA,"numeric",NA,NA
+"361","Myanmar (Burma)",2007,1,0,NA,NA,126938,NA,NA,NA,"numeric",NA,NA
+"362","Myanmar (Burma)",2008,7,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"363","Myanmar (Burma)",2009,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"364","Myanmar (Burma)",2010,9,0,78,NA,64477.1111111111,NA,NA,NA,"numeric",NA,NA
+"365","Myanmar (Burma)",2011,3,2,78,NA,NA,NA,NA,NA,"numeric",NA,NA
+"366","Myanmar (Burma)",2012,0,1,26,230,NA,NA,6.8,6.8,"numeric",NA,NA
+"367","Myanmar (Burma)",2016,0,1,3,20,NA,NA,6.8,6.8,"numeric",200,NA
+"368","Myanmar (Burma)",2017,0,1,2,36,NA,NA,5.1,5.1,"numeric",NA,NA
+"369","Namibia",2011,2,0,0,NA,268132,NA,NA,NA,"numeric",NA,NA
+"370","Nepal",2007,28,0,NA,NA,34555.3928571429,NA,NA,NA,"numeric",NA,NA
+"371","Nepal",2008,32,0,NA,NA,165407.90625,NA,NA,NA,"numeric",NA,NA
+"372","Nepal",2009,29,0,91,NA,21644.8275862069,NA,NA,NA,"numeric",NA,NA
+"373","Nepal",2010,73,0,NA,NA,44026.9178082192,NA,NA,NA,"numeric",NA,NA
+"374","Nepal",2011,61,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"375","Nepal",2012,16,0,NA,NA,122772.375,NA,NA,NA,"numeric",NA,NA
+"376","Nepal",2013,65,0,NA,NA,43876.0923076923,NA,NA,NA,"numeric",NA,NA
+"377","Nepal",2014,20,0,222,59,37303.95,NA,NA,NA,"numeric",NA,NA
+"378","Nepal",2015,0,2,8317,20666,NA,NA,7.55,7.8,"numeric",NA,NA
+"379","Nepal",2016,0,1,1,1,NA,NA,5.4,5.4,"numeric",NA,NA
+"380","New Caledonia",2008,0,1,NA,NA,NA,NA,7.3,7.3,"numeric",NA,NA
+"381","New Caledonia",2016,0,1,NA,NA,NA,NA,7.2,7.2,"numeric",NA,NA
+"382","New Zealand",2007,2,3,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"383","New Zealand",2008,5,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"384","New Zealand",2009,5,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"385","New Zealand",2010,14,5,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"386","New Zealand",2011,25,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"387","New Zealand",2012,2,0,0,NA,183985,NA,NA,NA,"numeric",NA,NA
+"388","New Zealand",2013,28,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"389","New Zealand",2014,6,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"390","New Zealand",2016,0,2,NA,NA,NA,NA,7.45,7.8,"numeric",NA,NA
+"391","Nicaragua",2007,1,0,NA,NA,6315,NA,NA,NA,"numeric",NA,NA
+"392","Nicaragua",2008,1,0,9,NA,5182,NA,NA,NA,"numeric",NA,NA
+"393","Nicaragua",2009,0,1,NA,NA,NA,NA,4.4,4.4,"numeric",10,NA
+"394","Nicaragua",2010,2,0,NA,NA,9418,NA,NA,NA,"numeric",NA,NA
+"395","Nicaragua",2012,0,1,NA,NA,NA,NA,7.3,7.3,"numeric",NA,NA
+"396","Nicaragua",2014,14,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"397","Nicaragua",2016,0,1,NA,NA,NA,NA,7,7,"numeric",NA,NA
+"398","Nigeria",2007,1,0,NA,NA,14305,NA,NA,NA,"numeric",NA,NA
+"399","Nigeria",2008,1,0,NA,NA,8402,NA,NA,NA,"numeric",NA,NA
+"400","Nigeria",2011,2,0,0,NA,95456.5,NA,NA,NA,"numeric",NA,NA
+"401","Nigeria",2012,1,0,NA,NA,75224,NA,NA,NA,"numeric",NA,NA
+"402","Nigeria",2013,3,0,12,NA,304537.666666667,NA,NA,NA,"numeric",NA,NA
+"403","Nigeria",2014,1,0,0,0,8611,NA,NA,NA,"numeric",NA,NA
+"404","North Korea",2007,1,0,NA,NA,9437,NA,NA,NA,"numeric",NA,NA
+"405","North Korea",2010,1,0,0,NA,21882,NA,NA,NA,"numeric",NA,NA
+"406","North Korea",2011,1,0,0,NA,30902,NA,NA,NA,"numeric",NA,NA
+"407","North Korea",2013,1,0,NA,NA,329207,NA,NA,NA,"numeric",NA,NA
+"408","Norway",2007,1,0,21,NA,0,NA,NA,NA,"numeric",NA,NA
+"409","Norway",2008,3,0,NA,NA,14998.3333333333,NA,NA,NA,"numeric",NA,NA
+"410","Norway",2011,11,0,1,NA,1657.63636363636,NA,NA,NA,"numeric",NA,NA
+"411","Norway",2012,2,0,0,NA,457,NA,NA,NA,"numeric",NA,NA
+"412","Oman",2013,1,0,NA,NA,101640,NA,NA,NA,"numeric",NA,NA
+"413","Pakistan",2007,8,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"414","Pakistan",2008,5,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"415","Pakistan",2009,0,1,NA,44,NA,NA,5.4,5.4,"numeric",NA,NA
+"416","Pakistan",2010,36,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"417","Pakistan",2011,15,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"418","Pakistan",2012,7,0,NA,NA,1836719.85714286,NA,NA,NA,"numeric",NA,NA
+"419","Pakistan",2013,9,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"420","Pakistan",2014,3,1,4,70,NA,NA,NA,NA,"numeric",NA,NA
+"421","Pakistan",2015,0,2,NA,NA,NA,NA,5.25,5.4,"numeric",NA,NA
+"422","Pakistan",2016,0,1,1,NA,NA,NA,5.4,5.4,"numeric",NA,NA
+"423","Pakistan",2017,0,1,NA,NA,NA,NA,6.3,6.3,"numeric",NA,NA
+"424","Panama",2008,2,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"425","Panama",2009,0,1,NA,32,NA,NA,6,6,"numeric",10,NA
+"426","Panama",2010,2,0,8,NA,1292,NA,NA,NA,"numeric",NA,NA
+"427","Panama",2011,2,0,0,NA,4698.5,NA,NA,NA,"numeric",NA,NA
+"428","Panama",2012,1,0,2,NA,76643,NA,NA,NA,"numeric",NA,NA
+"429","Panama",2013,5,0,NA,NA,30724.6,NA,NA,NA,"numeric",NA,NA
+"430","Panama",2015,0,1,NA,NA,NA,NA,5.9,5.9,"numeric",41,NA
+"431","Papua New Guinea",2007,3,0,NA,NA,38159.3333333333,NA,NA,NA,"numeric",NA,NA
+"432","Papua New Guinea",2008,3,0,NA,NA,6315.33333333333,NA,NA,NA,"numeric",NA,NA
+"433","Papua New Guinea",2009,1,0,7,NA,18503,NA,NA,NA,"numeric",NA,NA
+"434","Papua New Guinea",2012,2,0,28,NA,17219,NA,NA,NA,"numeric",NA,NA
+"435","Papua New Guinea",2013,3,0,NA,NA,8984,NA,NA,NA,"numeric",NA,NA
+"436","Papua New Guinea",2014,0,1,NA,NA,NA,NA,7.5,7.5,"numeric",NA,NA
+"437","Papua New Guinea",2015,0,2,NA,NA,NA,NA,7.5,7.5,"numeric",NA,NA
+"438","Papua New Guinea",2016,0,1,NA,NA,NA,NA,7.9,7.9,"numeric",NA,NA
+"439","Papua New Guinea",2017,0,1,NA,NA,NA,NA,7.9,7.9,"numeric",NA,NA
+"440","Paraguay",2013,1,0,NA,NA,198553,NA,NA,NA,"numeric",NA,NA
+"441","Peru",2007,2,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"442","Peru",2008,3,3,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"443","Peru",2009,12,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"444","Peru",2010,18,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"445","Peru",2011,5,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"446","Peru",2012,5,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"447","Peru",2013,1,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"448","Peru",2014,2,1,11,230,NA,NA,NA,NA,"numeric",NA,NA
+"449","Peru",2015,0,2,NA,NA,NA,NA,7.6,7.6,"numeric",NA,NA
+"450","Peru",2016,0,2,5,84,NA,NA,5.8,6.2,"numeric",1331,NA
+"451","Philippines",2007,39,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"452","Philippines",2008,61,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"453","Philippines",2009,71,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"454","Philippines",2010,89,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"455","Philippines",2011,143,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"456","Philippines",2012,51,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"457","Philippines",2013,73,2,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"458","Philippines",2014,22,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"459","Philippines",2017,0,2,NA,208,NA,NA,6.2,6.5,"numeric",5150,NA
+"460","Phillipines",2014,7,0,3,9,23703.2857142857,NA,NA,NA,"numeric",NA,NA
+"461","Poland",2010,2,0,0,NA,2100,NA,NA,NA,"numeric",NA,NA
+"462","Poland",2016,0,1,8,9,NA,NA,NA,NA,"numeric",NA,NA
+"463","Portugal",2010,2,0,44,NA,5574.5,NA,NA,NA,"numeric",NA,NA
+"464","Portugal",2013,3,0,NA,NA,23862.6666666667,NA,NA,NA,"numeric",NA,NA
+"465","Puerto Rico",2007,1,0,NA,NA,418140,NA,NA,NA,"numeric",NA,NA
+"466","Puerto Rico",2010,1,0,0,NA,944,NA,NA,NA,"numeric",NA,NA
+"467","Romania",2010,3,0,0,NA,1705.66666666667,NA,NA,NA,"numeric",NA,NA
+"468","Russia",2007,0,2,NA,NA,NA,NA,7.15,8.1,"numeric",NA,NA
+"469","Russia",2008,0,3,NA,NA,NA,NA,6.53333333333333,7.7,"numeric",NA,NA
+"470","Russia",2009,0,1,NA,NA,NA,NA,7.4,7.4,"numeric",NA,NA
+"471","Russia",2010,2,0,0,NA,32811.5,731,NA,NA,"numeric",NA,14720.3248876993
+"472","Russia",2011,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"473","Russia",2012,2,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"474","Russia",2013,1,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"475","Russia",2014,5,0,1,0,8272,731,NA,NA,"numeric",NA,9441.16194023728
+"476","Rwanda",2007,2,0,NA,NA,85154,1461,NA,NA,"numeric",NA,412.963025852124
+"477","Rwanda",2008,0,1,1,109,NA,NA,4.9,4.9,"numeric",5,NA
+"478","Rwanda",2010,1,0,14,NA,83623,1461,NA,NA,"numeric",NA,98.4148186843889
+"479","Rwanda",2013,1,0,NA,NA,70593,1461,NA,NA,"numeric",NA,471.06679905421
+"480","Rwanda",2015,0,1,3,30,NA,NA,5.5,5.5,"numeric",NA,NA
+"481","Rwanda",2016,0,1,3,25,NA,NA,4.8,4.8,"numeric",NA,NA
+"482","Saint Vincent and the Grenadines",2010,7,0,4,NA,2479,NA,NA,NA,"numeric",NA,NA
+"483","Samoa",2009,0,1,192,NA,NA,NA,8.1,8.1,"numeric",NA,NA
+"484","Saudi Arabia",2009,0,2,NA,NA,NA,NA,5.15,5.7,"numeric",NA,NA
+"485","Scotland",2014,1,0,0,0,14108,115,NA,NA,"numeric",NA,12662.9587196267
+"486","Scottland",2014,2,0,0,0,1232.5,115,NA,NA,"numeric",NA,8694.97410369177
+"487","Serbia",2010,1,0,NA,NA,0,NA,NA,NA,"numeric",NA,NA
+"488","Serbia And Montenegro",2010,0,1,2,100,NA,NA,5.5,5.5,"numeric",5000,NA
+"489","Serbia And Montenegro",2015,0,1,NA,NA,NA,NA,4.4,4.4,"numeric",100,NA
+"490","Sierra Leone",2008,1,0,NA,NA,5460,33,NA,NA,"numeric",NA,136.097481323503
+"491","Sierra Leone",2009,1,0,7,NA,802639,49,NA,NA,"numeric",NA,4.69810170716114
+"492","Sierra Leone",2010,2,0,18,NA,802639,49,NA,NA,"numeric",NA,72.8746882171564
+"493","Sierra Leone",2012,1,0,NA,NA,802639,49,NA,NA,"numeric",NA,76.9629373672518
+"494","Sierra Leone",2013,1,0,10,NA,802639,49,NA,NA,"numeric",NA,42.5063036600143
+"495","Sierra Leone",2014,1,0,5,0,802639,49,NA,NA,"numeric",NA,41.3309812862484
+"496","Singapore",2008,1,0,NA,NA,145639,23,NA,NA,"numeric",NA,684.48515743601
+"497","Slovakia",2010,2,0,0,NA,122687.5,242.5,NA,NA,"numeric",NA,133.613973832596
+"498","Slovenia",2007,1,0,NA,NA,7933,439,NA,NA,"numeric",NA,162.228023702782
+"499","Solomon Islands",2007,0,2,NA,NA,NA,NA,7.65,8.1,"numeric",NA,NA
+"500","Solomon Islands",2009,0,1,NA,NA,NA,NA,7.8,7.8,"numeric",NA,NA
+"501","Solomon Islands",2010,1,3,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"502","Solomon Islands",2012,0,1,NA,NA,NA,NA,6.4,6.4,"numeric",NA,NA
+"503","Solomon Islands",2013,0,2,NA,NA,NA,NA,7.45,7.9,"numeric",NA,NA
+"504","Solomon Islands",2014,0,2,NA,NA,NA,NA,7.5,7.6,"numeric",NA,NA
+"505","Solomon Islands",2015,0,2,NA,NA,NA,NA,6.85,7,"numeric",NA,NA
+"506","Solomon Islands",2016,0,2,NA,NA,NA,NA,7.35,7.8,"numeric",NA,NA
+"507","Solomons Island",2013,1,0,NA,NA,56298,49,NA,NA,"numeric",NA,1526.78913239707
+"508","South Africa",2008,3,0,NA,NA,15966,NA,NA,NA,"numeric",NA,NA
+"509","South Africa",2009,1,1,5,NA,NA,NA,NA,NA,"numeric",NA,NA
+"510","South Africa",2011,1,0,0,NA,6922,NA,NA,NA,"numeric",NA,NA
+"511","South Africa",2012,4,0,NA,NA,16352.5,NA,NA,NA,"numeric",NA,NA
+"512","South Africa",2013,7,0,0,NA,987993.428571429,NA,NA,NA,"numeric",NA,NA
+"513","South Africa",2014,1,1,1,2,NA,NA,NA,NA,"numeric",NA,NA
+"514","South Georgia And The South Sandwich Islands",2016,0,1,NA,NA,NA,NA,7.4,7.4,"numeric",NA,NA
+"515","South Korea",2008,2,0,5,NA,54326,NA,NA,NA,"numeric",NA,NA
+"516","South Korea",2011,7,0,84,NA,5941947.42857143,NA,NA,NA,"numeric",NA,NA
+"517","South Korea",2012,1,0,1,NA,29691,NA,NA,NA,"numeric",NA,NA
+"518","South Korea",2016,0,1,1,14,NA,NA,4.6,4.6,"numeric",106,NA
+"519","Spain",2007,3,0,NA,NA,129654.333333333,336,NA,NA,"numeric",NA,122.964194066504
+"520","Spain",2008,1,0,NA,NA,401270,34,NA,NA,"numeric",NA,17.1438742361494
+"521","Spain",2010,3,0,2,NA,6106.66666666667,402.333333333333,NA,NA,"numeric",NA,8.15361048961401
+"522","Spain",2011,1,1,10,NA,NA,NA,NA,NA,"numeric",NA,NA
+"523","Spain",2013,1,0,NA,NA,2317,244,NA,NA,"numeric",NA,89.5721486467941
+"524","Spain",2014,1,0,1,0,16890,147,NA,NA,"numeric",NA,22.0722125085967
+"525","Sri Lanka",2007,4,0,NA,NA,47164.75,NA,NA,NA,"numeric",NA,NA
+"526","Sri Lanka",2008,5,0,NA,NA,20367.6,NA,NA,NA,"numeric",NA,NA
+"527","Sri Lanka",2010,10,0,3,NA,57747.8,NA,NA,NA,"numeric",NA,NA
+"528","Sri Lanka",2011,34,0,NA,NA,48756.1764705882,NA,NA,NA,"numeric",NA,NA
+"529","Sri Lanka",2012,2,0,NA,NA,16058,NA,NA,NA,"numeric",NA,NA
+"530","Sri Lanka",2013,3,0,NA,NA,54669.6666666667,NA,NA,NA,"numeric",NA,NA
+"531","Sri Lanka",2014,2,0,11,0,8241,NA,NA,NA,"numeric",NA,NA
+"532","St Lucia",2013,1,0,NA,NA,1906,NA,NA,NA,"numeric",NA,NA
+"533","St Vincent And The Grenadines",2013,1,0,5,NA,1680,NA,NA,NA,"numeric",NA,NA
+"534","St. Lucia",2008,1,0,NA,NA,4574,NA,NA,NA,"numeric",NA,NA
+"535","St. Vincent and the Grenadines",2010,1,0,0,NA,1680,NA,NA,NA,"numeric",NA,NA
+"536","St. Vincent and the Grenadines",2011,1,0,0,NA,1680,NA,NA,NA,"numeric",NA,NA
+"537","Sudan",2013,1,0,6,5,1200000,391,NA,NA,"numeric",NA,489.056480718328
+"538","Swaziland",2012,1,0,1,NA,76218,1209,NA,NA,"numeric",NA,150.973853204476
+"539","Switzerland",2011,2,0,0,NA,2695,710.5,NA,NA,"numeric",NA,506.387225025096
+"540","Switzerland",2013,2,0,NA,NA,5683.5,489,NA,NA,"numeric",NA,174.066570076546
+"541","Switzerland",2014,2,0,0,0,4377,832.5,NA,NA,"numeric",NA,162.930197055891
+"542","Taiwan",2007,5,0,NA,NA,3148760,NA,NA,NA,"numeric",NA,NA
+"543","Taiwan",2008,7,0,NA,NA,1268499.57142857,NA,NA,NA,"numeric",NA,NA
+"544","Taiwan",2009,8,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"545","Taiwan",2010,16,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"546","Taiwan",2011,3,0,0,NA,2787867.66666667,NA,NA,NA,"numeric",NA,NA
+"547","Taiwan",2012,4,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"548","Taiwan",2013,9,2,5,NA,NA,NA,NA,NA,"numeric",NA,NA
+"549","Taiwan",2015,0,1,1,1,NA,NA,6.4,6.4,"numeric",1,NA
+"550","Taiwan",2016,0,1,116,525,NA,NA,6.4,6.4,"numeric",NA,NA
+"551","Tajikistan",2007,7,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"552","Tajikistan",2009,2,0,3,NA,37471.5,427,NA,NA,"numeric",NA,446.097657494905
+"553","Tajikistan",2010,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"554","Tajikistan",2011,1,0,1,NA,679400,767,NA,NA,"numeric",NA,7.28403490286926
+"555","Tajikistan",2012,0,1,1,NA,NA,NA,5.7,5.7,"numeric",NA,NA
+"556","Tajikistan",2015,0,1,2,NA,NA,NA,7.2,7.2,"numeric",NA,NA
+"557","Tajikistan",2016,0,1,NA,NA,NA,NA,5.4,5.4,"numeric",NA,NA
+"558","Tajkikistan",2014,1,0,14,0,0,476,NA,NA,"numeric",NA,1121.25865118244
+"559","Tanzania",2009,1,0,20,NA,17455,NA,NA,NA,"numeric",NA,NA
+"560","Tanzania",2011,2,0,7,NA,12634,NA,NA,NA,"numeric",NA,NA
+"561","Tanzania",2013,1,0,NA,NA,17754,NA,NA,NA,"numeric",NA,NA
+"562","Tanzania",2016,0,1,19,252,NA,NA,5.9,5.9,"numeric",6281,NA
+"563","Tasmania",2007,1,0,NA,NA,1035,152,NA,NA,"numeric",NA,75.2371827400857
+"564","Tasmania",2010,1,0,0,NA,1035,24,NA,NA,"numeric",NA,686.632907859051
+"565","Thailand",2007,6,0,NA,NA,10946.6666666667,99.1666666666667,NA,NA,"numeric",NA,118.708108972213
+"566","Thailand",2008,2,0,NA,NA,7398.5,73,NA,NA,"numeric",NA,190.527159144001
+"567","Thailand",2009,3,0,NA,NA,0,280.666666666667,NA,NA,"numeric",NA,226.310684706111
+"568","Thailand",2010,14,0,NA,NA,20960.5,59.5,NA,NA,"numeric",NA,260.986166570729
+"569","Thailand",2011,16,0,NA,NA,10275.5625,94.25,NA,NA,"numeric",NA,205.681172341616
+"570","Thailand",2012,2,0,NA,NA,32941.5,211.5,NA,NA,"numeric",NA,233.57341414376
+"571","Thailand",2013,9,0,NA,NA,13923.1111111111,185.888888888889,NA,NA,"numeric",NA,215.774411528103
+"572","Thailand",2014,6,1,4,NA,NA,NA,NA,NA,"numeric",NA,NA
+"573","Tibet",2012,1,0,NA,NA,0,194,NA,NA,"numeric",NA,89.9858829639153
+"574","Tibet",2014,1,0,0,0,0,148,NA,NA,"numeric",NA,19.4328107767763
+"575","Tonga",2009,0,1,NA,NA,NA,NA,7.6,7.6,"numeric",NA,NA
+"576","Trinidad and Tobago",2007,5,0,NA,NA,6593.6,NA,NA,NA,"numeric",NA,NA
+"577","Trinidad and Tobago",2008,5,0,NA,NA,17146.4,NA,NA,NA,"numeric",NA,NA
+"578","Trinidad and Tobago",2009,1,0,0,NA,26700,NA,NA,NA,"numeric",NA,NA
+"579","Trinidad and Tobago",2010,25,0,NA,NA,18157.48,NA,NA,NA,"numeric",NA,NA
+"580","Trinidad and Tobago",2011,11,0,1,NA,26682.3636363636,NA,NA,NA,"numeric",NA,NA
+"581","Trinidad and Tobago",2012,10,0,NA,NA,10551.8,NA,NA,NA,"numeric",NA,NA
+"582","Trinidad And Tobago",2013,5,0,NA,NA,16945.2,NA,NA,NA,"numeric",NA,NA
+"583","Turkey",2007,1,4,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"584","Turkey",2008,2,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"585","Turkey",2009,4,0,NA,NA,78407.75,1189.75,NA,NA,"numeric",NA,459.911365277074
+"586","Turkey",2010,1,1,63,NA,NA,NA,NA,NA,"numeric",NA,NA
+"587","Turkey",2011,1,3,648,NA,NA,NA,NA,NA,"numeric",NA,NA
+"588","Turkey",2012,0,2,NA,29,NA,NA,5.7,6.1,"numeric",NA,NA
+"589","Turkey",2013,3,0,NA,NA,221108.333333333,435,NA,NA,"numeric",NA,878.220360410034
+"590","Turkey",2014,1,0,1,10,0,6,NA,NA,"numeric",NA,520.477501505662
+"591","Uganda",2007,1,0,NA,NA,0,NA,NA,NA,"numeric",NA,NA
+"592","Uganda",2009,3,0,NA,NA,51423,NA,NA,NA,"numeric",NA,NA
+"593","Uganda",2010,16,0,406,NA,17143.75,NA,NA,NA,"numeric",NA,NA
+"594","Uganda",2011,6,0,49,NA,3766.66666666667,NA,NA,NA,"numeric",NA,NA
+"595","Uganda",2012,5,0,NA,NA,275020.6,NA,NA,NA,"numeric",NA,NA
+"596","Uganda",2013,7,0,4,NA,2744.85714285714,NA,NA,NA,"numeric",NA,NA
+"597","Uk",2007,0,1,NA,1,NA,NA,4.6,4.6,"numeric",NA,NA
+"598","Uk",2008,0,1,NA,1,NA,NA,4.8,4.8,"numeric",NA,NA
+"599","Ukraine",2010,1,0,2,NA,2573,NA,NA,NA,"numeric",NA,NA
+"600","United Arab Emirates",2008,1,0,NA,NA,44411,2,NA,NA,"numeric",NA,563.886080964682
+"601","United Kingdom",2007,11,0,NA,NA,15616.2727272727,115,NA,NA,"numeric",NA,7529.76840598113
+"602","United Kingdom",2008,10,0,NA,NA,76566,115,NA,NA,"numeric",NA,8978.76138561609
+"603","United Kingdom",2009,9,0,NA,NA,5928.55555555556,115,NA,NA,"numeric",NA,8131.23831139564
+"604","United Kingdom",2010,17,0,0,NA,30633.6470588235,NA,NA,NA,"numeric",NA,NA
+"605","United Kingdom",2011,13,0,NA,NA,20398.1538461538,115,NA,NA,"numeric",NA,11773.1759419657
+"606","United Kingdom",2012,32,0,NA,NA,18351.5625,NA,NA,NA,"numeric",NA,NA
+"607","United Kingdom",2013,19,0,NA,NA,15325.7368421053,115,NA,NA,"numeric",NA,8912.43400039886
+"608","United Kingdom",2014,37,0,0,0,17693.5789473684,112.552631578947,NA,NA,"numeric",NA,5523.53239954327
+"609","United States",2007,46,0,NA,NA,75105.9347826087,NA,NA,NA,"numeric",NA,NA
+"610","United States",2008,90,0,NA,NA,14582.3,NA,NA,NA,"numeric",NA,NA
+"611","United States",2009,88,0,NA,NA,28802.8863636364,NA,NA,NA,"numeric",NA,NA
+"612","United States",2010,299,0,NA,NA,27969.3210702341,NA,NA,NA,"numeric",NA,NA
+"613","United States",2011,382,0,NA,NA,29192.219895288,NA,NA,NA,"numeric",NA,NA
+"614","United States",2012,134,0,NA,NA,53455.5447761194,NA,NA,NA,"numeric",NA,NA
+"615","United States",2013,264,0,NA,NA,23126.4090909091,NA,NA,NA,"numeric",NA,NA
+"616","United States",2014,137,0,48,10,86234.85,NA,NA,NA,"numeric",NA,NA
+"617","United States",2015,1,0,0,0,8881,NA,NA,NA,"numeric",NA,NA
+"618","United¬†States",2013,1,0,3,NA,97385,NA,NA,NA,"numeric",NA,NA
+"619","US Virgin Islands",2010,1,0,0,NA,50601,NA,NA,NA,"numeric",NA,NA
+"620","Usa",2007,0,6,NA,NA,NA,NA,4.46666666666667,6.7,"numeric",NA,NA
+"621","Usa",2008,0,4,NA,NA,NA,NA,5.425,6,"numeric",NA,NA
+"622","Usa",2010,0,3,NA,NA,NA,NA,5.33333333333333,6.5,"numeric",NA,NA
+"623","Usa",2011,0,7,NA,NA,NA,NA,5.58571428571429,7.3,"numeric",NA,NA
+"624","Usa",2013,0,2,NA,NA,NA,NA,4.8,7.5,"numeric",NA,NA
+"625","Usa",2014,0,4,NA,NA,NA,NA,6.275,7.9,"numeric",NA,NA
+"626","Usa",2015,0,1,NA,NA,NA,NA,6.9,6.9,"numeric",NA,NA
+"627","Usa",2016,0,2,NA,NA,NA,NA,6.05,7.1,"numeric",NA,NA
+"628","Usa Territory",2010,0,3,NA,NA,NA,NA,5.7,6.9,"numeric",NA,NA
+"629","Usa Territory",2014,0,1,NA,NA,NA,NA,6.4,6.4,"numeric",NA,NA
+"630","Usa Territory",2016,0,1,NA,NA,NA,NA,7.7,7.7,"numeric",NA,NA
+"631","Uzbekistan",2011,0,1,14,86,NA,NA,6.1,6.1,"numeric",NA,NA
+"632","Vanuatu",2007,0,2,NA,NA,NA,NA,7.15,7.2,"numeric",NA,NA
+"633","Vanuatu",2008,0,1,NA,NA,NA,NA,6.4,6.4,"numeric",NA,NA
+"634","Vanuatu",2009,0,3,NA,NA,NA,NA,6.53333333333333,7.6,"numeric",NA,NA
+"635","Vanuatu",2010,0,2,NA,NA,NA,NA,7.25,7.3,"numeric",NA,NA
+"636","Vanuatu",2011,0,3,NA,NA,NA,NA,6.86666666666667,7.1,"numeric",NA,NA
+"637","Vanuatu",2012,0,2,NA,NA,NA,NA,6.65,7,"numeric",NA,NA
+"638","Vanuatu",2013,1,0,0,NA,705,NA,NA,NA,"numeric",NA,NA
+"639","Vanuatu",2015,0,1,NA,NA,NA,NA,6.4,6.4,"numeric",NA,NA
+"640","Vanuatu",2016,0,1,NA,NA,NA,NA,7,7,"numeric",NA,NA
+"641","Venezuela",2008,1,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"642","Venezuela",2009,0,2,NA,NA,NA,NA,5.85,6.3,"numeric",NA,NA
+"643","Venezuela",2010,15,1,NA,NA,NA,NA,NA,NA,"numeric",NA,NA
+"644","Venezuela",2011,4,0,2,NA,763141,NA,NA,NA,"numeric",NA,NA
+"645","Venezuela",2015,0,1,1,NA,NA,NA,5.3,5.3,"numeric",83,NA
+"646","Vietnam",2007,8,0,NA,NA,19316.375,NA,NA,NA,"numeric",NA,NA
+"647","Vietnam",2008,22,0,NA,NA,24068.5,NA,NA,NA,"numeric",NA,NA
+"648","Vietnam",2009,7,0,NA,NA,8428.57142857143,NA,NA,NA,"numeric",NA,NA
+"649","Vietnam",2010,26,0,22,NA,42623.7692307692,NA,NA,NA,"numeric",NA,NA
+"650","Vietnam",2011,7,0,22,NA,44319.4285714286,NA,NA,NA,"numeric",NA,NA
+"651","Vietnam",2012,6,0,NA,NA,78690.5,NA,NA,NA,"numeric",NA,NA
+"652","Vietnam",2013,19,0,NA,NA,40883.9473684211,NA,NA,NA,"numeric",NA,NA
+"653","Vietnam",2014,1,0,0,0,0,NA,NA,NA,"numeric",NA,NA
+"654","Yemen",2007,1,0,NA,NA,0,NA,NA,NA,"numeric",NA,NA
+"655","Yemen",2008,1,0,NA,NA,41,NA,NA,NA,"numeric",NA,NA
+"656","Yemen",2009,1,0,11,NA,10593,NA,NA,NA,"numeric",NA,NA
+"657","Yemen",2012,2,0,14,NA,333546,NA,NA,NA,"numeric",NA,NA
+"658","Zambia",2010,1,0,9,NA,8547,NA,NA,NA,"numeric",NA,NA

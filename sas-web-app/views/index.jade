@@ -1,0 +1,52 @@
+extends layout
+
+block extra-js
+  script(src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js")
+  script(src="/javascripts/map.js")
+  script(src="/bower_components/jquery/dist/jquery.min.js")
+  script(src="/bower_components/materialize/dist/js/materialize.min.js")
+  script(src="/bower_components/materialize/extras/noUiSlider/nouislider.min.js")
+  script(async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1hnLChR4ix9tfFwXlxsJpykc2Yfc62bM&libraries=places&callback=initMap")
+
+  script.
+    init()
+  
+block content
+  .wrapper
+    .wrapper.left
+      ul.side-nav.fixed#sidenav
+        li
+          .icon.block
+            h1.center.brown-text
+              i.header.large.material-icons terrain
+            h4.header DISASTER DATA
+          p.container Click on a circle to begin!
+        li
+          a.header(href="/report") Report Disaster
+        li
+          a
+            .search-wrapper.card
+              input#search(class="controls" type="text" placeholder="Search Box")
+              i.material-icons search
+              #search-results
+        li
+          div#slider
+          a#year.center
+        .divider
+        table.highlight.centered
+          thead
+            tr
+              th Disaster Information
+        table.highlight.centered
+          tbody#summaryTable
+        .divider
+        table.centered
+          thead
+            tr
+              th Countries Statistics
+        table.highlight.centered
+          tbody#countryTable
+
+  div#map
+  

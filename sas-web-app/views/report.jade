@@ -1,0 +1,37 @@
+extends layout
+
+
+block content
+  .container
+    .header
+      .icon.block
+        h1.center.brown-text
+          i.header.large.material-icons terrain
+        h3.header DISASTER DATA 
+
+        a(href="/")
+          button.btn Return to explorer
+    .divider
+    .row
+      form.col.s12
+        .row
+          .input-field.col.s12
+            input#first_name.validate(placeholder='Land Slide', type='text')
+            label Disaster Type
+        .row
+        .row
+          .input-field.col.s6
+            input#email.validate(type='email', placeholder='Email Address')
+            label(for='email') Email
+          .input-field.col.s6
+            input#first_name.validate(placeholder='Name', type='text')
+            label(for='first_name') Name
+        .row
+          p Click on the map for the coordinates
+        
+      iframe(frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB1hnLChR4ix9tfFwXlxsJpykc2Yfc62bM&q=india" allowfullscreen='')
+  style.
+    iframe {
+      width:100%;
+      height:300px;
+    }
